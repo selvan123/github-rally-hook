@@ -5,7 +5,7 @@ The purpose of this service is to replace the rally service that is currently in
 
 The service is a rewrite/port of the [GitHub Rally service](https://github.com/github/github-services/blob/master/lib/services/rally.rb) 
 
-## Usage
+## Usage..
 The service currently looks for a small json configuration file in the working directory on start-up
 ```json
 { 
